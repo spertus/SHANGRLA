@@ -1,0 +1,260 @@
+{
+    "contests": [
+        {
+            "description": "DISTRICT ATTORNEY",
+            "id": 339
+        }
+    ],
+    "candidates": [
+        {
+            "description": "ALICE",
+            "id": "Alice"
+        },
+        {
+            "description": "BOB",
+            "id": "Bob"
+        }
+    ],
+    "ballots": [
+        {
+            "id": "1",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "2",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "3",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "4",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "5",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "6",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "7",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "8",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "9",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "10",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "11",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "12",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "13",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "14",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "15",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "16",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "17",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "18",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "19",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "20",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "21",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "22",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "23",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "24",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "25",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "26",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "27",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "28",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "29",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "30",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1620 @@
+{
+    "contests": [
+        {
+            "description": "DISTRICT ATTORNEY",
+            "id": 339
+        }
+    ],
+    "candidates": [
+        {
+            "description": "ALICE",
+            "id": "Alice"
+        },
+        {
+            "description": "BOB",
+            "id": "Bob"
+        }
+    ],
+    "ballots": [
+        {
+            "id": "1",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "2",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "3",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "4",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "5",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "6",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "7",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "8",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "9",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "10",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "11",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "12",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "13",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "14",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "15",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "16",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "17",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "18",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "19",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "20",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "21",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "22",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "23",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "24",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "25",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "26",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "27",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "28",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "29",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "30",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "31",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "32",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "33",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "34",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "35",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "36",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "37",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "38",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "39",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "40",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "41",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "42",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "43",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "44",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "45",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "46",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "47",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "48",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "49",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "50",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "51",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "52",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "53",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "54",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "55",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "56",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "57",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "58",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "59",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "60",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "61",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "62",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "63",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "64",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "65",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "66",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "67",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "68",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "69",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "70",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "71",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "72",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "73",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "74",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "75",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "76",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "77",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "78",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "79",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "80",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "81",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "82",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "83",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "84",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "85",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "86",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "87",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "88",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "89",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "90",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "91",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "92",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "93",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "94",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "95",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "96",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "97",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "98",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "99",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "100",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "101",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "102",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "103",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "104",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "105",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "106",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "107",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "108",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "109",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "110",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "111",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "112",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "113",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "114",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "115",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "116",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "117",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "118",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "119",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "120",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "121",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "122",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "123",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "124",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "125",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "126",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "127",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "128",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "129",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "130",
+            "votes": {
+                "339": {
+                    "Alice": true
+                }
+            }
+        },
+        {
+            "id": "131",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "132",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "133",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "134",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "135",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "136",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "137",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "138",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "139",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "140",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "141",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "142",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "143",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "144",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "145",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "146",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "147",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "148",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "149",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "150",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "151",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "152",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "153",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "154",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "155",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "156",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "157",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "158",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "159",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "160",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "161",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "162",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "163",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "164",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "165",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "166",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "167",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "168",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "169",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "170",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "171",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "172",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "173",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "174",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "175",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "176",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "177",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "178",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "179",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "180",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "181",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "182",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "183",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "184",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "185",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "186",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "187",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "188",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "189",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "190",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "191",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "192",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "193",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "194",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "195",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "196",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "197",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "198",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "199",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        },
+        {
+            "id": "200",
+            "votes": {
+                "339": {
+                    "Bob": true
+                }
+            }
+        }
+    ]
+}
